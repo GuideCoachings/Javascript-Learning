@@ -1,0 +1,1 @@
+console.log("Welcome to GuideCoahcings a new series on Javascript")
